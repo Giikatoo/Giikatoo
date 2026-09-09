@@ -9,22 +9,40 @@
 
 ---
 
-### 💻 Tech Stack
+<h2 align="left"> 💻 Programming Languages</h2>
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="gdscript" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+</p>
 
-**Languages**
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<h2 align="left"> Design & Tools</h2>
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  </a>
+  <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" alt="godot" width="40" height="40"/>
+  </a>
+  <img src="https://img.shields.io/badge/Clip_Studio_Paint-22B29A?style=for-the-badge&logo=clipstudiopaint&logoColor=white" alt="Clip Studio Paint" />
+  <img src="https://img.shields.io/badge/Aseprite-7D5260?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
+</p>
 
-**Art, Design & Tools**
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-22B29A?style=for-the-badge&logo=clipstudiopaint&logoColor=white)
-![Aseprite](https://img.shields.io/badge/Aseprite-7D5260?style=for-the-badge&logo=aseprite&logoColor=white)
-
----
-
-### 🌐 Connect with Me
-
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/giikatoo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rahut.n.contact@gmail.com)
+<h2 align="left"> 🌐 Connect with Me</h2>
+<p align="left">
+  <a href="https://discord.gg/giikatoo" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" width="40" height="40"/>
+  </a>
+  <a href="mailto:rahut.n.contact@gmail.com">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="email" width="40" height="40"/>
+  </a>
+</p>
